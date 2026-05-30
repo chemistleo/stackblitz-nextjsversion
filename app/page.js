@@ -11,7 +11,7 @@ const webAppSchema = {
   name: 'Menuqo - Haftalık Yemek Menüsü Planlayıcı',
   url: 'https://menuqo.com.tr',
   description:
-    'Bütçenize ve beslenme tarzınıza göre haftalık yemek menüsü oluşturun. Bugün ne pişirsem, sağlıklı yemek tarifleri, sağlıklı yemek tarifleri. Klasik, sporcu, sağlıklı ve vejetaryen seçenekler. Otomatik alışveriş listesi.',
+    'Bütçenize ve beslenme tarzınıza göre haftalık yemek menüsü oluşturun. Bugün ne pişirsem, sağlıklı yemek tarifleri, vejetaryen yemek tarifleri. Klasik, sporcu, sağlıklı ve vejetaryen seçenekler. Otomatik alışveriş listesi.',
   applicationCategory: 'HealthApplication',
   operatingSystem: 'Web',
   inLanguage: 'tr',
