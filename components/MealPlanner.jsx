@@ -507,7 +507,7 @@ export default function MealPlanner() {
                               {mealLabel(meal.mealType)}
                             </span>
                             <strong className="text-gray-800">{meal.title}</strong>
-                            <p className="text-xs text-gray-500 italic mt-0.5">"{meal.description}"</p>
+                            <p className="text-xs text-gray-500 italic mt-0.5">{'"'}{meal.description}{'"'}</p>
                           </div>
                           <div className="flex flex-col items-end gap-1 shrink-0">
                             <span className="text-xs font-bold text-emerald-600">🔥 {meal.base_calorie} kcal</span>
