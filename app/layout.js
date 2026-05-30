@@ -1,5 +1,15 @@
 import './globals.css';
-
+import { Analytics } from '@vercel/analytics/next';
+export default function RootLayout({ children }) {
+  return (
+    <html lang="tr">
+      <body>
+        {children}
+        <Analytics />
+      </body>
+    </html>
+  );
+}
 export const metadata = {
   title: 'Haftalık Yemek Menüsü Planlayıcı & Akıllı Alışveriş Listesi | Menuqo',
   description:
