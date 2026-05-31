@@ -1,3 +1,9 @@
+export const metadata = {
+    title: "Bugün Ne Pişirsem? Yemek Önerileri ve Menü Fikirleri | Menuqo",
+    description:
+      "Bugün ne pişirsem diye düşünüyorsanız, kahvaltıdan akşam yemeğine kadar pratik ve lezzetli yemek önerilerini keşfedin.",
+  };
+  
 export default function BugunNePisirsemPage() {
     return (
       <main style={{ maxWidth: "800px", margin: "0 auto", padding: "40px 20px" }}>
