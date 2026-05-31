@@ -33,8 +33,8 @@ export default function BugunNePisirsemPage() {
 
         <p>
         Menuqo, bütçe, beslenme tercihi ve öğün türüne göre haftalık yemek
-        planları oluşturmanıza yardımcı olur. Böylece her gün "bugün ne
-        pişirsem?" sorusuna yeniden cevap aramak zorunda kalmazsınız.
+        planları oluşturmanıza yardımcı olur. Böylece her gün bugün ne
+        pişirsem? sorusuna yeniden cevap aramak zorunda kalmazsınız.
         </p>
 
         <h2>Akşam Yemeği İçin Öneriler</h2>
