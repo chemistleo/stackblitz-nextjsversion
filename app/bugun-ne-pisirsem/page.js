@@ -9,6 +9,35 @@ export default function BugunNePisirsemPage() {
       <main style={{ maxWidth: "800px", margin: "0 auto", padding: "40px 20px" }}>
         <h1>Bugün Ne Pişirsem?</h1>
   
+        <section
+  style={{
+    margin: "25px 0",
+    padding: "20px",
+    backgroundColor: "#F0FDF4",
+    borderRadius: "12px",
+    textAlign: "center",
+  }}
+>
+  <p style={{ marginBottom: "15px" }}>
+    Her gün ne pişireceğinizi düşünmek yerine haftalık planınızı oluşturun.
+  </p>
+
+  <a
+    href="/"
+    style={{
+      display: "inline-block",
+      padding: "12px 24px",
+      backgroundColor: "#16A34A",
+      color: "white",
+      textDecoration: "none",
+      borderRadius: "8px",
+      fontWeight: "bold",
+    }}
+  >
+    Haftalık Planını Oluştur
+  </a>
+</section>
+
         <p>
           Her gün aynı soru: Bugün ne pişirsem? Eğer siz de akşam yemeği için
           fikir arıyorsanız doğru yerdesiniz. Menuqo, bütçenize ve tercihlerinize
@@ -73,7 +102,7 @@ export default function BugunNePisirsemPage() {
         <h2>Bugün için değil, tüm hafta için plan yapın</h2>
 
         <p>
-        Her gün &quotBugün ne pişirsem?&quot diye düşünmek yerine haftalık yemek
+        Her gün &quot;Bugün ne pişirsem?&quot; diye düşünmek yerine haftalık yemek
         planınızı birkaç dakikada oluşturun. Menuqo ile yemek kararlarını
         kolaylaştırın ve zamandan tasarruf edin.
         </p>
