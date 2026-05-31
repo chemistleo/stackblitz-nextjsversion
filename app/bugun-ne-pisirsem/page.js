@@ -61,6 +61,39 @@ export default function BugunNePisirsemPage() {
           etmenizi sağlar. Ayrıca ne pişireceğinizi düşünmek için harcadığınız
           zamanı azaltır.
         </p>
+        <section
+        style={{
+        marginTop: "40px",
+        padding: "30px",
+        backgroundColor: "#FFF7ED",
+        borderRadius: "12px",
+        textAlign: "center",
+        }}
+       >
+        <h2>Bugün için değil, tüm hafta için plan yapın</h2>
+
+        <p>
+        Her gün "Bugün ne pişirsem?" diye düşünmek yerine haftalık yemek
+        planınızı birkaç dakikada oluşturun. Menuqo ile yemek kararlarını
+        kolaylaştırın ve zamandan tasarruf edin.
+        </p>
+
+        <a
+        href="/"
+        style={{
+        display: "inline-block",
+        marginTop: "15px",
+        padding: "12px 24px",
+        backgroundColor: "#EA580C",
+        color: "white",
+        textDecoration: "none",
+        borderRadius: "8px",
+        fontWeight: "bold",
+        }}
+      >
+    Haftalık Planını Oluştur
+  </a>
+</section>
       </main>
     );
   }
