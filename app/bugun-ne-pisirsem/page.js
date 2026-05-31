@@ -73,7 +73,7 @@ export default function BugunNePisirsemPage() {
         <h2>Bugün için değil, tüm hafta için plan yapın</h2>
 
         <p>
-        Her gün "Bugün ne pişirsem?" diye düşünmek yerine haftalık yemek
+        Her gün &quotBugün ne pişirsem?&quot diye düşünmek yerine haftalık yemek
         planınızı birkaç dakikada oluşturun. Menuqo ile yemek kararlarını
         kolaylaştırın ve zamandan tasarruf edin.
         </p>
