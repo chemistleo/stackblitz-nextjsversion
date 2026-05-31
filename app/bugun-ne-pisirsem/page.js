@@ -15,7 +15,7 @@ export default function BugunNePisirsemPage() {
           göre haftalık yemek planı oluşturmanıza yardımcı olur.
         </p>
   
-        <h2>Neden Her Gün "Bugün Ne Pişirsem?" Diye Düşünüyoruz?</h2>
+        <h2>Neden Her Gün Bugün Ne Pişirsem? Diye Düşünüyoruz?</h2>
 
         <p>
         Birçok kişi gün içinde iş, okul ve günlük sorumluluklarla uğraşırken
