@@ -3,7 +3,7 @@ export const metadata = {
     description:
       "Bugün ne pişirsem diye düşünüyorsanız, kahvaltıdan akşam yemeğine kadar pratik ve lezzetli yemek önerilerini keşfedin.",
   };
-  
+
 export default function BugunNePisirsemPage() {
     return (
       <main style={{ maxWidth: "800px", margin: "0 auto", padding: "40px 20px" }}>
@@ -15,6 +15,28 @@ export default function BugunNePisirsemPage() {
           göre haftalık yemek planı oluşturmanıza yardımcı olur.
         </p>
   
+        <h2>Neden Her Gün "Bugün Ne Pişirsem?" Diye Düşünüyoruz?</h2>
+
+        <p>
+        Birçok kişi gün içinde iş, okul ve günlük sorumluluklarla uğraşırken
+        akşam ne yemek yapacağına karar vermekte zorlanır. Karar verme süreci
+        zaman alır ve çoğu zaman aynı yemeklerin tekrar edilmesine neden olur.
+        </p>
+
+        <p>
+        Haftalık yemek planı oluşturmak bu sorunu ortadan kaldırabilir.
+        Önceden belirlenmiş bir menü sayesinde alışveriş planlamak kolaylaşır,
+        gıda israfı azalır ve her gün yeni bir karar vermek gerekmez.
+        </p>
+
+        <h2>Menuqo Nasıl Yardımcı Olur?</h2>
+
+        <p>
+        Menuqo, bütçe, beslenme tercihi ve öğün türüne göre haftalık yemek
+        planları oluşturmanıza yardımcı olur. Böylece her gün "bugün ne
+        pişirsem?" sorusuna yeniden cevap aramak zorunda kalmazsınız.
+        </p>
+
         <h2>Akşam Yemeği İçin Öneriler</h2>
   
         <ul>
